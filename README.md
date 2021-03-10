@@ -1,4 +1,4 @@
-# [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp) Addons [![Patreon][patreon-badge]](https://patreon.com/skaryey)
+# [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp) Add On
 
 > **Better Discord Addons**
 
